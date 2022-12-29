@@ -1,5 +1,0 @@
-To deploy the EC2 environment, ensure you're in the Terraform module/directory in which you write the Terraform code, and run the following commands:
-
-terraform init
-terraform plan
-terraform apply
